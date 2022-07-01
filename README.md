@@ -1,2 +1,2 @@
 # Sami-Logam
-A Open soruce and friendly Minecraft Server proudly made with Aternos.
+Source code of Sami Logam's static webpage.
